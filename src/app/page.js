@@ -32,8 +32,9 @@ const LanguageButton = styled.button`
   transition: all 0.1s ease;
 
   &:hover {
-    background-color: white;
-    color: black;
+    background-color: inherit;
+    color: inherit;
+    cursor: default;
   }
   }
 
