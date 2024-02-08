@@ -29,7 +29,7 @@ const LanguageButton = styled.button`
   padding: 8px 16px;
   margin-right: 10px;
   cursor: pointer;
-  transition: all 0.3s ease;
+  transition: all 0.1s ease;
   }
 `;
 
