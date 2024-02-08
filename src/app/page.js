@@ -42,7 +42,7 @@ const HomePage = () => {
   };
 
   return (
-    <div style={{ alignItems: 'center', justifyContent: 'center', display: 'flex', flexDirection: 'column', height: '100vh' }}>
+    <div style={{ alignItems: 'center', justifyContent: 'center', display: 'flex', flexDirection: 'column', height: '100vh'}}>
       <div style={{ height: "45px", width: "100%", backgroundColor: 'red', textAlign: 'center' }}>
         <h1 style={{ margin: '7px' }}>|| श्री गुरुदेव दत्त : ||</h1>
       </div>
