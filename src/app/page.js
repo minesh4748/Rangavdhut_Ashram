@@ -30,7 +30,11 @@ const LanguageButton = styled.button`
   margin-right: 10px;
   cursor: pointer;
   transition: all 0.1s ease;
+
+
   }
+
+  
 `;
 
 // const ImageAnimation = styled.img`
