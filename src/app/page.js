@@ -17,6 +17,20 @@ const LanguageButton = styled.button`
     background-color: #333;
     color: #fff;
   }
+
+  
+@media(max-width: 1440px) {
+  /* Your CSS styles for mobile devices go here */
+  
+  background-color: ${props => props.clicked ? 'white' : 'orange'};
+  color:${props => props.clicked ? 'black' : 'black'};
+  
+  border: 2px solid #333;
+  padding: 8px 16px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  }
 `;
 
 // const ImageAnimation = styled.img`
