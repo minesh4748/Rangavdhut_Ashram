@@ -31,7 +31,10 @@ const LanguageButton = styled.button`
   cursor: pointer;
   transition: all 0.1s ease;
 
-
+  &:hover {
+    background-color: inherit;
+    color: inherit;
+  }
   }
 
   
