@@ -30,7 +30,7 @@
     cursor: pointer;
     transition: all 0.3s ease;
   }
-  button:active {
+  button:checked {
     background-color: white;
     color: black; /* Change this to the desired color */
   }
